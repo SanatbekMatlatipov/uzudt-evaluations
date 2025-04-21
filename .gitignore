@@ -1,0 +1,17 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Models
+models/
+*.udpipe
+*.pt
+*.spacy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
